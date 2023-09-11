@@ -1,0 +1,31 @@
+.body{
+    background-image:url(./auth/pages/assets/background.jpg);
+    display: grid;
+    place-items: center;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: brightness(0.9);
+    
+}
+
+.login-style{
+    display: grid;
+    place-items: center;
+}
+
+.login-style h1{
+    font-size: 5rem;
+    color: white;
+}
+
+.login-style button {
+    width: 20%;
+    
+}
+
+
+
+
+ 
